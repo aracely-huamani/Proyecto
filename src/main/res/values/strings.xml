@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyectio</string>
+    <string-array name="Roles">
+        <item>Estudiante</item>
+        <item>Tutor</item>
+        <item>Administrador</item>
+    </string-array>
+</resources>
